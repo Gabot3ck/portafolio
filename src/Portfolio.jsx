@@ -1,7 +1,15 @@
+import { Route, Routes } from "react-router-dom";
+import { Home } from "./pages/Home";
+
+
 
 
 export const Portfolio = () => {
-  return (
-    <h1>Mi Portafolio</h1>
-  )
+
+
+  return (<>
+    <Routes>
+      <Route path='/' element={ <Home /> } />
+    </Routes>
+  </>)
 }
