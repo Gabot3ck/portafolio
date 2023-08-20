@@ -49,7 +49,7 @@ export const NavBar = () => {
         <section className="w-44 hidden md:flex justify-between items-center px-2 xl:p-0 " >
           <LinkRRSS 
             icon={ <FaLinkedinIn /> }
-            link='https://www.linkedin.com/in/gabriel-castillo-developer/' 
+            link='https://www.linkedin.com/in/gabriel-castillo-frontend/' 
           />
           
           <LinkRRSS 

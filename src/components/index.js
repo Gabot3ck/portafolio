@@ -1,3 +1,3 @@
 export * from './buttons';
-export * from './header';
+export * from './home';
 export * from './navbar';
