@@ -1,2 +1,2 @@
 export * from './Skills';
-export * from './BoxSkill';
+export * from './ContainerOfSkillsBoxes';

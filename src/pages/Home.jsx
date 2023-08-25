@@ -1,5 +1,4 @@
-import { AboutMe, Header, NavBar, Skills } from "../components";
-
+import { AboutMe, Header, NavBar, Skills, Projects } from "../components";
 
 
 export const Home = () => {
@@ -10,5 +9,6 @@ export const Home = () => {
     <Header />
     <AboutMe />
     <Skills />
+    <Projects />
   </>)
 }

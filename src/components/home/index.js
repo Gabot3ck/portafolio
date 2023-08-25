@@ -1,3 +1,4 @@
 export * from './AboutMe';
 export * from './Header';
-export * from './Skills';
+export * from './skills';
+export * from './projects';
